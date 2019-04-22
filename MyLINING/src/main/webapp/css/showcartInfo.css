@@ -1,0 +1,124 @@
+@charset "utf-8";
+div.items table.grid { width: 986px; margin: 0 auto; color: #555; background: #fff; }
+div.items table.grid thead tr { text-align: center; }
+div.items table.grid thead tr td {
+	background:#fff;
+	height:42px;
+	font-size:14px;
+	color:#333;
+	box-sizing: border-box;
+	/*border-bottom: 1px solid #d7d7d7;*/
+}
+div.items table.grid tbody tr { text-align: center; }
+div.items table.grid tbody tr td {height: 120px; border-top: 1px solid #D7D7D7; box-sizing: border-box;}
+div.items table.grid tbody tr td img.item { width: 62px; height: 62px;border: 1px solid #CFCFCF;}
+
+#shoppingbag{
+	background:url(../images/gouwuche_img/cart_1.png) no-repeat ;
+	width: 986px; 
+	height: 34px; 
+	margin:20px auto;
+}
+
+/************************************************************/
+
+#t1{
+	width: 62px;
+    height: 62px;
+    border: 1px solid #cfcfcf;
+    text-align: center;
+}
+
+.g1{
+	width: 986px; 
+	height: 34px; 
+	margin:20px auto;
+}
+
+.tj{
+	background: #EE2737;
+    cursor: pointer;
+    height: 70px;
+    width: 140px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 500;
+    display: block;
+    text-align: center;
+    line-height: 70px;
+    margin-left: 740px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************************************************/
+/*购物车改版 2016-12-19*/
+#container_list * {font-family: '微软雅黑';}
+
+#container_list a {
+	text-decoration:none;
+}
+
+#container_list {
+	background-color: #EEEFEF;
+	/*overflow: hidden;*/
+}
+
+.checkboxSpan{
+	width: 12px;
+	height: 12px;
+	display: inline-block;
+	vertical-align: middle;
+	cursor: pointer;
+	box-sizing: border-box;
+}
+
+.unCheck{
+	border: 1px solid rgba(188, 188, 188, 1);
+}
+
+.textLeft {
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

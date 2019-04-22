@@ -1,0 +1,64 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: "微软雅黑";
+	background-color: #EDEDED;
+}
+
+h2 {
+	text-align: center;
+}
+
+table {
+	width: 96%;
+	margin: 0 auto;
+	text-align: center;
+	border-collapse: collapse;
+	font-size: 16px;
+}
+
+td, th {
+	padding: 5px;
+}
+
+th {
+	background-color: #DCDCDC;
+	width: 120px;
+}
+
+th.width-40 {
+	width: 40px;
+}
+
+th.width-70 {
+	width: 70px;
+}
+
+th.width-80 {
+	width: 80px;
+}
+
+hr {
+	margin-bottom: 20px;
+	border: 1px solid #aaa;
+}
+input, select, textarea {
+	width: 284px;
+	height: 30px;
+	background: #EDEDED;
+	border: 1px solid #999;
+	text-indent: 5px;
+	font-size: 18px;
+}
+#bsearch:hover{
+	cursor:pointer;
+}
+
+#bsearch{
+	width: 100px;
+    height: 34px;
+    color: #fff;
+    letter-spacing: 2px;
+    background: #3C8DBC;
+    border-bottom: 1px solid #2d78f4;
+}
